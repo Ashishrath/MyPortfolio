@@ -11,39 +11,15 @@
 }
 
 .image {
-  border-radius: 10px;
   height: 40vh;
   object-fit: cover;
+  border-radius: 10px;
   margin-bottom: 26px;
 }
 
 .title {
   font-size: 25px;
   font-weight: 700;
-}
-
-.description {
-  margin-top: 6px;
-  font-size: 16px;
-  font-weight: 400;
-}
-
-.skills {
-  width: 100%;
-  margin-top: 14px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 6px;
-  list-style: none;
-}
-
-.skill {
-  font-size: 20px;
-  font-weight: 400;
-  border-radius: 100px;
-  background: var(--color-dark);
-  padding: 2px 22px;
 }
 
 .links {

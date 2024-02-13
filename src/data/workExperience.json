@@ -4,7 +4,7 @@
       "organisation": "Dell Technologies",
       "startDate": "July, 2022",
       "endDate": "May, 2023",
-      "experiences": ["Worked on Dell Power Protect Data Management product", "Reduced load times by 50%"],
+      "experiences": ["Achieved proficiency in C++ programming, knowledgeable in Python programming, and handled lab activities.", "Revamped debug log level on the entire codebase in collaboration with one developer.", "Remediated vulnerabilities to secure the team's VMs from security threats and secured over 90% of VMs."],
       "imageSrc": "history/Dell.png"
     },
     {
@@ -12,7 +12,7 @@
       "organisation": "Wipro Limited",
       "startDate": "June, 2021",
       "endDate": "April, 2022",
-      "experiences": ["Worked on Citi project", "Designed the control panel"],
+      "experiences": ["Worked as a Full Stack Developer on the CITI project's ticketing and emailing system.", "Built utility tools for purging testing emails from the development environment to increase speed and clean up memory.", "Prepared end-user documentation for two applications."],
       "imageSrc": "history/Wipro.png"
     }
   ]

@@ -16,30 +16,35 @@ const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>C++ Developer</h3>
+              <h3>Introduction</h3>
               <p>
-                I'm a C++ developer with work experience as Graduate Intern in
-                Dell Technologies.
+                My name is Ashish Rath, and I am a software developer based in
+                India with experience in C++ programming, and full-stack web
+                development.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Industry Experience</h3>
               <p>
-                I'm a frontend developer with experience in making responsive
-                and user-friendly web sites.
+                I've had the privilege of working with industry leaders such as
+                Dell Technologies and Wipro Limited, where I gained invaluable
+                experience in software development, project management, and team
+                collaboration.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uiIcon.png")} alt="third icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Academic Journey</h3>
               <p>
-                I've experience in developing fast and optimized backend systems
-                and APIs.
+                I pursued my Masters of Technology in Computer Networking from
+                NIT-B (MANIT), Bhopal. Prior to that, I earned my Bachelor's of
+                Engineering degree in Computer Science and Engineering from
+                SSITM, Bhilai.
               </p>
             </div>
           </li>

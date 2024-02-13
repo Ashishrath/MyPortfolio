@@ -1,26 +1,31 @@
 [
     {
-      "title": "Tokenization of Rental Real Estate Assets Using Blockchain Technologies",
-      "imageSrc": "projects/project1_1.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Solidity", "RemixIDE"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
       "title": "Home Rentals",
       "imageSrc": "projects/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["React", "Express", "MongoDB", "Node", "Sass"],
+      "source": "https://github.com/Ashishrath/HomeRental"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "VidTube",
+      "imageSrc": "projects/project2.png",
+      "description": "Video streaming (like youtube) backend with tweet thread function embedded",
+      "skills": ["Javascript", "Express", "MongoDB", "Node", "JWT"],
+      "source": "https://github.com/Ashishrath/Backend-project"
+    },
+    {
+      "title": "Product Sales Analysis",
+      "imageSrc": "projects/project3.png",
+      "description": "Small inventory management and total sales",
+      "skills": ["C++", "File Systems", "OOP"],
+      "source": "https://github.com/Ashishrath/Cpp-project"
+    },
+    {
+      "title": "ExpenseEase",
+      "imageSrc": "projects/project4.png",
+      "description": "ExpenseEase — React JS based expense tracker",
+      "skills": ["React", "HTML", "CSS", "Bootstrap"],
+      "source": "https://github.com/Ashishrath/ExpenseEase"
     }
-  ]
+]
+  

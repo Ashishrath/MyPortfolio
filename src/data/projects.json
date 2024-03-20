@@ -26,6 +26,20 @@
       "description": "ExpenseEase — React JS based expense tracker",
       "skills": ["React", "HTML", "CSS", "Bootstrap"],
       "source": "https://github.com/Ashishrath/ExpenseEase"
+    },
+    {
+      "title": "Pong Game",
+      "imageSrc": "projects/pong1.png",
+      "description": "Classic Pong game using the Raylib library in C++.",
+      "skills": ["C++", "Raylib"],
+      "source": "https://github.com/Ashishrath/PongGame"
+    },
+    {
+      "title": "Logcat Filter",
+      "imageSrc": "projects/logcat.png",
+      "description": "A log filter application to filter logs based on pid, vid, time range and log levels using C++.",
+      "skills": ["C++"],
+      "source": "https://github.com/Ashishrath/Logcat_Filter"
     }
 ]
   
